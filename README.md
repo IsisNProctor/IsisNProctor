@@ -6,7 +6,7 @@
   
 - 💻 Skilled in Python, SQL, and Excel.
 
-- My profficiency in Excel and Python allows me to effectiively process and analyze data to generate meaning insights 
+- My profficiency in Excel and Python allows me to effectiively process and analyze data to generate meaningful insights 
   
 - I'm currently working on building my data analytics skills in SQL, Tableau, PowerBi, Python, and R
   
